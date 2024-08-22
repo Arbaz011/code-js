@@ -13,4 +13,8 @@ console.log(a)
 let num=787
 console.log(typeof num);
 console.log(num)
-let bigint=2
+console.log(bigIntLiteral)
+let bigIntLiteral = 9007199254740991n;
+console.log(typeof bigIntLiteral);
+
+
